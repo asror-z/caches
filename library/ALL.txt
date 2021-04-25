@@ -1,0 +1,11 @@
+chcp 65001
+
+
+composer require yiisoft/yii2-authclient chiliec/yii2-disqus-authclient esp4ik/yii2-authclient-extended  kotchuprik/yii2-instagram-authclient isudakoff/yii2-mailru-authclient crocone/authclient-odnoklassniki 
+
+composer require isudakoff/yii2-pinterest-authclient aradiv/yii2-authclient-telegram isudakoff/yii2-tumblr-authclient changyuan/yii2-authclient yujiandong/yii2-authclient 
+
+composer require bigpaulie/yii2-social-share denostr/yii2-bootstrap-social halumein/yii2-like-module kartik-v/yii2-social yii2mod/yii2-feed yiimaker/yii2-social-share kratorman/yii2-eauth nodge/yii2-eauth symbios/yii2-eauth xgine/yii2-eauth
+
+
+composer require assayer-pro/yii2-sitemap-module demi/sitemap-generator dmstr/yii2-pages-module dreamjobs/sitemap-generator extpoint/yii2-megamenu floor12/yii2-module-pages himiklab/yii2-sitemap-module iarchvile/yii2-yml-generator odanylevskyi/yii2-sitemap-xml yii2tech/sitemap zhelyabuzhsky/yii2-sitemap 

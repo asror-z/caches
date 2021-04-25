@@ -1,0 +1,9 @@
+
+Asror
+
+composer require jaeger/querylist:V4.1.1
+composer require jaeger/querylist-phantomjs:4.0.1
+
+
+        "": "^4.1",
+        "": "^4.0"

@@ -1,0 +1,9 @@
+- Theory
+BackUp
+Archives
+Autosave
+_gsdata_
+.idea/workspace.xml
+*.ffs_db
+*.log
+*.tmp

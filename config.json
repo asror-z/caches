@@ -1,0 +1,30 @@
+{
+  "config": {
+    "process-timeout": 6000,
+    "use-include-path": false,
+    "preferred-install": "dist",
+    "store-auths": true,
+    "github-protocols": [
+      "https",
+      "ssh",
+      "git"
+    ],
+    "disable-tls": false,
+    "secure-http": true,
+    "vendor-dir": "vendor",
+    "cache-files-ttl": 15552000,
+    "cache-files-maxsize": "300MiB",
+    "bin-compat": "full",
+    "prepend-autoloader": true,
+    "optimize-autoloader": true,
+    "sort-packages": false,
+    "apcu-autoloader": false,
+    "use-github-api": false,
+    "notify-on-install": true,
+    "discard-changes": true,
+    "archive-format": "tar",
+    "archive-dir": ".",
+    "htaccess-protect": false,
+    "classmap-authoritative": true
+  }
+}
