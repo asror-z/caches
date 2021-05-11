@@ -26,5 +26,11 @@
     "archive-dir": ".",
     "htaccess-protect": false,
     "classmap-authoritative": true
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
   }
 }
