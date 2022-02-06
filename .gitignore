@@ -2,3 +2,6 @@ cache
 yarner
 vendor
 bower
+maven
+gradle
+jdkapp
